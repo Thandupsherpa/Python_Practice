@@ -16,3 +16,4 @@ print(num)
 
 num = [y**3 for y in range(1,11)]
 print(num)
+
